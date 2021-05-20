@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destiny2방화벽", "Destiny2방화벽\Destiny2방화벽.csproj", "{F15B72E3-68AD-4DC4-BC4B-22AA54C76E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15B72E3-68AD-4DC4-BC4B-22AA54C76E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15B72E3-68AD-4DC4-BC4B-22AA54C76E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15B72E3-68AD-4DC4-BC4B-22AA54C76E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15B72E3-68AD-4DC4-BC4B-22AA54C76E54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F125DA5F-A77E-4847-B699-502C54425D17}
+	EndGlobalSection
+EndGlobal

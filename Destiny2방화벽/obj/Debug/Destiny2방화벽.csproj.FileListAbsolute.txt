@@ -1,0 +1,12 @@
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\bin\Debug\Destiny2방화벽.exe.config
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\bin\Debug\Destiny2방화벽.exe
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\bin\Debug\Destiny2방화벽.pdb
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.csprojAssemblyReference.cache
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.csproj.ResolveComReference.cache
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.Form1.resources
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.Properties.Resources.resources
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.csproj.GenerateResource.cache
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.csproj.CoreCompileInputs.cache
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.exe
+C:\Users\kac44\source\repos\Destiny2방화벽\Destiny2방화벽\obj\Debug\Destiny2방화벽.pdb
