@@ -1,0 +1,12 @@
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\bin\Release\그타세션방화벽2.0.exe.config
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\bin\Release\그타세션방화벽2.0.exe
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\bin\Release\그타세션방화벽2.0.pdb
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2.0.csprojAssemblyReference.cache
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2.0.csproj.ResolveComReference.cache
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2._0.Form1.resources
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2._0.Properties.Resources.resources
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2.0.csproj.GenerateResource.cache
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2.0.csproj.CoreCompileInputs.cache
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2.0.exe
+C:\Users\kac44\source\repos\그타세션방화벽2.0\그타세션방화벽2.0\obj\Release\그타세션방화벽2.0.pdb
